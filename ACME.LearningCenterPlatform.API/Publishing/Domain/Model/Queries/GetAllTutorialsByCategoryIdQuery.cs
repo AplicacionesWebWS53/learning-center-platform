@@ -1,3 +1,3 @@
 namespace ACME.LearningCenterPlatform.API.Publishing.Domain.Model.Queries;
 
-public record GetAllTutorialByCategoryIdQuery(int CategoryId);
+public record GetAllTutorialsByCategoryIdQuery(int CategoryId);
